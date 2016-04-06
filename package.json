@@ -1,0 +1,10 @@
+{
+  "name": "frontend",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-connect-proxy": "*",
+    "grunt-contrib-connect": "*",
+    "grunt-eslint": "^17.3.1",
+  }
+}
